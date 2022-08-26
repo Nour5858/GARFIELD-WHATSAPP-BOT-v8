@@ -22,8 +22,7 @@ global.notice = ` *Hi 🥰 I m*
 *I am a Learning.*
 *Not more..*
 *Also I am Student*
-*Follow Mywhatsapp https://wa.me/+201127522147
-*`  // 👈 Enter Your details and Social Media Links and Anything
+*Follow Mywhatsapp https://wa.me/+201127522147*`  // 👈 Enter Your details and Social Media Links and Anything
 global.owner =  ['+201127522147'] //👈  Enter Your number
 global.premium =  ['+201127522147'] //👈  Enter Your number
 global.ownernomer = '+201127522147' //👈  Enter Your number
